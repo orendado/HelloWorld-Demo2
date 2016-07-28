@@ -1,7 +1,9 @@
 <?php
 
 class WebSocketUser {
-
+//my remarks
+//my remarks
+//my remarks
   public $socket;
   public $id;
   public $headers = array();
